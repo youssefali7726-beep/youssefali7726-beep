@@ -6,7 +6,6 @@
   <a href="https://youssefali7726-beep.github.io/personal-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio_%26_CV-090D16?style=for-the-badge&logo=googlechrome&logoColor=06B6D4" alt="Portfolio & CV" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=youssefali7726-beep&label=Profile%20Views&color=06B6D4&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
