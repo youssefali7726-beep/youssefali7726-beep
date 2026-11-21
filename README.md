@@ -18,17 +18,41 @@
 </p>
 
 
-## About Me
 
+<h2 align="left">👨‍💻 About Me</h2>
 
-┌──(youssef㉿developer)-[~]
-└─$ cat about.txt
+<p>
+  <code>┌──(youssef㉿developer)-[~]</code><br>
+  <code>└─$ cat about.txt</code>
+</p>
 
-name              : Youssef Ali Farghaly
-role              : Full-Stack .NET Developer
-focus             : Web APIs & Computational Engineering
-stack             : C# · ASP.NET Core · SQL Server · React
-mindset           : Learn. Build. Improve. Repeat.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👤 Profile</h3>
+      <p><b>Name:</b> Youssef Ali Farghaly</p>
+      <p><b>Role:</b> Full-Stack .NET Developer</p>
+      <p><b>Focus:</b> Web Development & RESTful APIs</p>
+      <p><b>Background:</b> Software Development</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Technical Interests</h3>
+      <p>• C# & ASP.NET Core</p>
+      <p>• SQL Server & Database Design</p>
+      <p>• HTML, CSS & JavaScript</p>
+      <p>• Cybersecurity & Problem Solving</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>🎯 My Mission</b><br>
+  Building practical, scalable software solutions and continuously improving my skills.
+</p>
+
+<p align="center">
+  <i>Learn. Build. Improve. Repeat. 🚀</i>
+</p>
 
 ### 🌐 Connect With Me
 
