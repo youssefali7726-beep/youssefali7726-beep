@@ -24,11 +24,11 @@
 ┌──(youssef㉿developer)-[~]
 └─$ cat about.txt
 
-name    : Youssef Ali Farghaly
-role    : Full-Stack .NET Developer
-focus   : Web APIs & Computational Engineering
-stack   : C# · ASP.NET Core · SQL Server · React
-mindset : Learn. Build. Improve. Repeat.
+name              : Youssef Ali Farghaly
+role              : Full-Stack .NET Developer
+focus             : Web APIs & Computational Engineering
+stack             : C# · ASP.NET Core · SQL Server · React
+mindset           : Learn. Build. Improve. Repeat.
 
 ### 🌐 Connect With Me
 
