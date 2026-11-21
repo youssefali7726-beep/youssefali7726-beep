@@ -18,42 +18,44 @@
 </p>
 
 
+<h2 align="center">👨‍💻 About Me</h2>
 
-<h2 align="left">👨‍💻 About Me</h2>
+<div align="center">
 
-<p>
-  <code>┌──(youssef㉿developer)-[~]</code><br>
-  <code>└─$ cat about.txt</code>
-</p>
+```bash
+┌──(youssef㉿developer)-[~]
+└─$ cat about.txt
+```
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3>👤 Profile</h3>
+    <td width="380" valign="top">
+      <h3 align="center">👤 Profile</h3>
       <p><b>Name:</b> Youssef Ali Farghaly</p>
       <p><b>Role:</b> Full-Stack .NET Developer</p>
-      <p><b>Focus:</b> Web Development & RESTful APIs</p>
-      <p><b>Background:</b> Software Development</p>
+      <p><b>Focus:</b> Web Development &amp; RESTful APIs</p>
+      <p><b>Background:</b> Computational Geotechnical Research</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Technical Interests</h3>
-      <p>• C# & ASP.NET Core</p>
-      <p>• SQL Server & Database Design</p>
-      <p>• HTML, CSS & JavaScript</p>
-      <p>• Cybersecurity & Problem Solving</p>
+    <td width="380" valign="top">
+      <h3 align="center">⚡ Technical Interests</h3>
+      <p>• C# &amp; ASP.NET Core</p>
+      <p>• SQL Server &amp; Database Design</p>
+      <p>• React, HTML, CSS &amp; JavaScript</p>
+      <p>• Cybersecurity &amp; Problem Solving</p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <b>🎯 My Mission</b><br>
-  Building practical, scalable software solutions and continuously improving my skills.
-</p>
+<br/>
 
-<p align="center">
-  <i>Learn. Build. Improve. Repeat. 🚀</i>
-</p>
+<b>🎯 My Mission</b><br/>
+Building practical, scalable software solutions and continuously improving my skills.
 
+<br/><br/>
+
+<i>Learn. Build. Improve. Repeat. 🚀</i>
+
+</div>
 ### 🌐 Connect With Me
 
 <p align="left">
