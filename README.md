@@ -6,21 +6,35 @@
   <a href="https://youssefali7726-beep.github.io/personal-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio_%26_CV-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio & CV" />
   </a>
+  <a href="https://www.linkedin.com/in/youssf-farghlay-391019357" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/201018733769" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:youssef.ali7726@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Full-Stack Software Engineer and Researcher specializing in building robust, scalable web applications with **ASP.NET Core**, **React**, and **SQL Server**. Passionate about clean database architecture, modern UI/UX design, and integrating **Python Machine Learning** models into real-world engineering solutions.
 
-- 🔭 **Currently building:** Scalable Full-Stack `.NET` & `React` web applications, healthcare management systems (**MediCare** & **TrioCare**), and data-driven engineering tools.
-- 🌱 **Deepening my expertise in:** Clean Architecture, `ASP.NET Core`, `Entity Framework Core`, advanced `SQL Server` optimization, and Python ML predictive modeling.
-- 👯 **Open to collaborate on:** End-to-end Full-Stack Web Applications, SaaS platforms, and Open-Source developer tools.
-- 🤝 **Looking to connect on:** System design patterns, cloud-native deployments on `Azure`, and bridging machine learning models with production web apps.
-- 💬 **Ask me about:** `C#`, `.NET`, `React`, `Tailwind CSS`, Relational Database Modeling (3NF), and Python Data Science.
-- ⚡ **Beyond the code:** Analytical problem-solver by day, passionate football player by night ⚽.
+┌──(youssef㉿developer)-[~]
+└─$ cat about.txt
 
+name      : "Youssef Ali Farghaly"
+role      : "Full-Stack .NET Developer | Back-End Engineer"
+focus     : "Web Development, RESTful APIs & Computational Engineering"
+skills    : [C#, ASP.NET Core, EF Core, SQL Server, React, Tailwind CSS, JavaScript, Python]
+interests : [Cybersecurity, Database Design (3NF), Software Architecture, Problem Solving]
+mindset   : "Learn. Build. Improve. Repeat."
+
+mission: >
+  I enjoy turning complex requirements into secure, responsive, and
+  scalable web applications using clean architecture and modern technologies.
 ---
 
 ### 🌐 Connect With Me
