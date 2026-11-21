@@ -17,24 +17,24 @@
   </a>
 </p>
 
----
 
-### 👨‍💻 About Me
-
+## About Me
 
 ┌──(youssef㉿developer)-[~]
 └─$ cat about.txt
 
-name      : "Youssef Ali Farghaly"
-role      : "Full-Stack .NET Developer | Back-End Engineer"
-focus     : "Web Development, RESTful APIs & Computational Engineering"
-skills    : [C#, ASP.NET Core, EF Core, SQL Server, React, Tailwind CSS, JavaScript, Python]
-interests : [Cybersecurity, Database Design (3NF), Software Architecture, Problem Solving]
-mindset   : "Learn. Build. Improve. Repeat."
+name       : "Youssef Ali Farghaly"
+role       : "Full-Stack .NET Developer | Back-End Engineer"
+background : "Computational Geotechnical Research"
+focus      : "Web Development, RESTful APIs & Computational Engineering"
+skills     : "C#, ASP.NET Core, EF Core, SQL Server, React, Tailwind CSS, Python"
+interests  : "Cybersecurity, Database Design (3NF), Software Architecture"
+mindset    : "Learn. Build. Improve. Repeat."
 
 mission: >
   I enjoy turning complex requirements into secure, responsive, and
   scalable web applications using clean architecture and modern technologies.
+
 ---
 
 ### 🌐 Connect With Me
