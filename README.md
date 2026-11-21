@@ -99,11 +99,6 @@ Full-Stack Software Engineer and Researcher specializing in building robust, sca
   <img src="https://streak-stats.demolab.com/?user=youssefali7726-beep&background=090D16&border=1E293B&ring=06B6D4&fire=3B82F6&currStreakLabel=06B6D4&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
 </div>
 
-<div align="center">
-  <h3>🔝 Top Contributed Repositories</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=youssefali7726-beep&limit=5&combine_all_yearly_contributions=true&title_color=06B6D4&text_color=E2E8F0&bg_color=090D16&border_color=1E293B" />
-</div>
-
 ---
 
 <div align="center">
